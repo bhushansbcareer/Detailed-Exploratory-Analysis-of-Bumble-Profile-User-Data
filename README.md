@@ -1,4 +1,4 @@
-# Detailed-EDA-of-Bumble-User-Profile-Data
+# Detailed EDA of Bumble User Profile Data
 
 **Technologies Used:** Python, Pandas, Seaborn, Matplotlib
 
