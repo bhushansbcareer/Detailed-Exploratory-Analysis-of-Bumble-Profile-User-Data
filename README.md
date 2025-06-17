@@ -1,6 +1,4 @@
-# Detailed-Exploratory-Analysis-of-Bumble-User-Profile-Data
-
-# Bumble User Data Analysis  
+# Detailed-EDA-of-Bumble-User-Profile-Data
 
 ## Overview  
 This project conducts an **exploratory analysis** of Bumble user data to uncover insights into **demographics, preferences, and behavioral trends**. The findings help improve **matchmaking algorithms, user engagement, and platform personalization**.  
