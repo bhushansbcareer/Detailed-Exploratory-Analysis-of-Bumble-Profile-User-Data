@@ -1,5 +1,7 @@
 # Detailed-EDA-of-Bumble-User-Profile-Data
 
+**Technologies Used:** Python, Pandas, Seaborn, Matplotlib
+
 ## Overview  
 This project conducts an **exploratory analysis** of Bumble user data to uncover insights into **demographics, preferences, and behavioral trends**. The findings help improve **matchmaking algorithms, user engagement, and platform personalization**.  
 
